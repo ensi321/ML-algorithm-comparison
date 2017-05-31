@@ -1,5 +1,6 @@
 # ML-algorithm-comparison
 This is my solution to an assignment from csc412 - Probabilistic Learning and Reasoning
+The codes require numpy and autograd (https://github.com/HIPS/autograd) to be installed. 
 
 We explore the performance of generative (Naive bayes and EM algorithm) and discriminative models (Logistic regression) using MNIST.
 We use mixture of Bernoulli ie. each pixel is a bernoulli random variable and they are independent of each other. We try to find which
